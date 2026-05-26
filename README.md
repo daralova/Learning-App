@@ -92,16 +92,9 @@
 ### Требования
 - Windows 7 / 8 / 10 / 11
 - [.NET Framework 4.5](https://dotnet.microsoft.com/en-us/download/dotnet-framework) или выше
-### Способ 1: Запуск из исходников
+### Запуск из исходников
 ```bash
 git clone https://github.com/ВАШ_АККАУНТ/Название_репозитория.git
 cd Название_репозитория/WindowsFormsApp1
 # Откройте WindowsFormsApp1.sln в Visual Studio
 # Нажмите F5 для запуска
-
-### Способ 2: Запуск готового приложения
-```bash
-# Скачайте папку bin/Release
-# Запустите WindowsFormsApp1.exe
-⚠️ Важно: Приложение работает только на Windows (использует Windows Forms). Для запуска на macOS/Linux используйте Wine или виртуальную машину.
-
